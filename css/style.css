@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Inter:wght@600&family=Oswald:wght@300;400;700&family=PT+Serif+Caption&family=Poppins:wght@300;500;600;700&family=Roboto+Condensed&family=Roboto:wght@400;900&display=swap');
+body{
+    background-color: #040A0A;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+header{
+    background-image: url("../assets/image/Group-33725.png");
+    background-repeat: no-repeat;
+}
+.logo{
+    margin-left: 150px;
+    margin-top: 84px;
+}
+h1{
+    padding-top: 488px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: auto;
+}
+.button-header{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    width: 220px;
+    height: 50px;
+    border: #43FFD2 solid 2px;
+    background-color: #43FFD2;
+    margin-top: 47px;
+    margin-left: 540px;
+    margin-bottom: 350px;
+}
+.form-outline{
+    background-color: #040A0A;
+    border: #040A0A solid 2px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.section-Lover-Flower{
+    background-color: #040A0A;
+    border: #040A0A solid 2px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.nav-link{
+    color: #FFFFFF;
+}
+.nav-link:hover{
+    color: #43FFD2;
+}
+.about__us{
+    background-image: url(../assets/image/Group-33726.png);
+    width: 1380px;
+    background-repeat: no-repeat;
+}
+.about__us-wrapper{
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    height: 282px;
+    width: 682px;
+    margin-top: 30px;
+    margin-left: 600px;
+}
+.about__us-title{
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 121px;
+    color: #FFFFFF;
+    padding-top: 250px;
+    padding-left: 250px;
+}
+.LOVER-FLOWER__title{
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    color: #43FFD2;
+    height: 128px;
+    width: 242px;
+    padding-left: 350px;
+    padding-top: 10px;
+}
+.LOVER-FLOWER__line{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.LOVER-FLOWER-wrapper{
+    display: flex;
+}
+.about__us-wrapper__title{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.about__us-wrapper__text{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    color: #FFFFFF;
+    height: 262px;
+    width: 662px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.warranty__title{
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    color: #43FFD2;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+.warranty__text{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    height: 90px;
+    width: 825px;
+    margin-left: 350px;
+}
+.order__title{
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 64px;
+    color: #43FFD2;
+    height: 192px;
+    width: 695px;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+.order__links{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 300;
+}
+.order__items{
+    margin-top: 20px; 
+    margin-left: 610px;
+}
+.SLOGAN__text{
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin-top: 162px; 
+    margin-left: 165px;
+    height: 300px;
+    width: 972px;
+}
+.text__choice{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;  
+    height: 60px;
+    width: 445px;
+    margin-left: 355px;
+    margin-top: 40px;
+    padding-bottom: 200px;
+}
+footer{
+    width: 1440px;
+    height: 337px;
+}
+.contacts__footer-icons{
+    display: flex;
+    padding-right: 10px;
+}
+.footer__title{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #43FFD2;
+}
+.footer__text{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+.items-contacts{
+    display: flex;
+    justify-content: center;
+}
+.contacts__footer-icons__image{
+    width: 40px;
+    height: 40px;
+    padding-right: 20px;
+}
+.contacts__footer{
+    padding-right: 100px;
+}
